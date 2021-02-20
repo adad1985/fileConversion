@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/D072889/Desktop/ICA/jar_files/jlibs-core-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D072889/Desktop/ICA/jar_files/jlibs-visitor-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D072889/Desktop/ICA/jar_files/jlibs-xml-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D072889/Desktop/ICA/jar_files/jlibs-xsd-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D072889/Desktop/ICA/jar_files/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D072889/Desktop/ICA/jar_files/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D072889/Desktop/ICA/xsd-2.2.3.jar/xsd-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D072889/Desktop/ICA/jaxmexs-0.5.jar/jaxmexs-0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D072889/Desktop/ICA/jax-qname.jar/jax-qname.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
